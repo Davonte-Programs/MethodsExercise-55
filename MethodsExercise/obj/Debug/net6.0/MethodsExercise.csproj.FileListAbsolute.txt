@@ -1,0 +1,5 @@
+C:\Users\terey\OneDrive\Desktop\repos\MethodsExercise-55\MethodsExercise\obj\Debug\net6.0\MethodsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\terey\OneDrive\Desktop\repos\MethodsExercise-55\MethodsExercise\obj\Debug\net6.0\MethodsExercise.AssemblyInfoInputs.cache
+C:\Users\terey\OneDrive\Desktop\repos\MethodsExercise-55\MethodsExercise\obj\Debug\net6.0\MethodsExercise.AssemblyInfo.cs
+C:\Users\terey\OneDrive\Desktop\repos\MethodsExercise-55\MethodsExercise\obj\Debug\net6.0\MethodsExercise.csproj.CoreCompileInputs.cache
+C:\Users\terey\OneDrive\Desktop\repos\MethodsExercise-55\MethodsExercise\obj\Debug\net6.0\MethodsExercise.sourcelink.json
